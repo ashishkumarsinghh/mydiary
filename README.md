@@ -1,0 +1,2 @@
+# mydiary
+daily logging diary
